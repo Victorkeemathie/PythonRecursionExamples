@@ -4,7 +4,7 @@ A comprehensive repository of Recursive algorithm examples written in Python, de
 
 # Challenging Recursion Problems
 
-Hi, and welcome. In this repo, we will explore some challenging recursion problems. Recursion is a fundamental concept in Data Structures and Algorithms. I have written more about it on Hashnode [here](https://hashnode.com/).
+Hi, and welcome. In this repo, we will explore some challenging recursion problems. Recursion is a fundamental concept in Data Structures and Algorithms. I have written more about it on Hashnode [here](https://victormkimathi.hashnode.dev/understanding-recursion).
 
 ## Problem 1: Capitalize Words Recursively  📝
 
